@@ -7,7 +7,9 @@ public class HMDTest : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("XRSettings.isDeviceActive");
+        Debug.Log("Is device active: " + XRSettings.isDeviceActive);
+        Debug.Log("Device name: " + XRSettings.loadedDeviceName);
+        
     }
 
 
