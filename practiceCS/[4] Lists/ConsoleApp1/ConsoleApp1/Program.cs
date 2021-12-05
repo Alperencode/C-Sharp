@@ -64,7 +64,6 @@ namespace ConsoleApp1
             {
                 Console.WriteLine($"Name:{person.Name} Surname:{person.Surname} Age:{person.Age}");
             }
-
         }
     }
 }

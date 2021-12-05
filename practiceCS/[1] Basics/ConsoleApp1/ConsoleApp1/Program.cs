@@ -25,18 +25,24 @@ namespace ConsoleApp1
                 return x + y;
             }
 
-            bool CheckTrue(bool x)
+            int sayi1 = 20;
+            int sayi2 = 30;
+            bool isDeaad = true;
+            if ((sayi2 > sayi1) && (isDeaad))
             {
-                if (x){
-                    return true;
-                }
-                else
-                {
-                    return false;
-                }
+                Console.WriteLine("Sayi iki büyük");
+            }
+            else if (sayi1 == sayi2)
+            {
+                Console.WriteLine("Sayilar eşit");
+            }
+            else
+            {
+                Console.WriteLine("sayi bir büyük");
             }
 
 
+            Console.ReadKey();
         }
     }
 }
