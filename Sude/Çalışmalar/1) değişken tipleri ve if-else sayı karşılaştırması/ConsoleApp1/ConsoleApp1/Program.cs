@@ -9,12 +9,12 @@ namespace ConsoleApp1
         {
             // Değişken tipleri
 
-            * x = 10;
-            * x = 3.14f;
-            * x = "Hello World";
-            * x = 3.14159265359;
-            * x = true;
-            * x = false;
+            int x = 10;
+            float x = 3.14f;
+            string x = "Hello World";
+            double x = 3.14159265359;
+            bool x = true;
+            bool x = false;
 
             // Unity'de private ve public değişken farkı
 

@@ -16,7 +16,19 @@ namespace ConsoleApp1
 
             // Girilen sayi değişkeninin çift sayı olup olmadığını kontrol ediniz
             // sayının 0 olup olmadığını kontrol ediniz
-                
+
+            if( sayi==0)
+            {
+                Console.WriteLine("girdiginiz sayi 0 dır");
+            }
+            else if(sayi%2==0)
+            {
+                Console.WriteLine("girdiginiz sayi cift sayidir");
+            }
+            else
+            {
+                Console.WriteLine("girdiğiniz sayi çift sayi dağildir");
+            }
     
         }
     }
