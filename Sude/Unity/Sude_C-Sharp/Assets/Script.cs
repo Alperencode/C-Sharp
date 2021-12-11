@@ -10,7 +10,9 @@ public class Script : MonoBehaviour
 
     void Start()
     {
-        
+
+        Debug.Log("Hello World");
+
     }
 
 
