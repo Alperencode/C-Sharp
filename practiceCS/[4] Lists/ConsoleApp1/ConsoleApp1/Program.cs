@@ -38,6 +38,7 @@ namespace ConsoleApp1
              * Names.Reverse() ----- Sorts the list in reverse
              * Names.Clear() ----- Clears the list
              * String[] NameArray = Names.ToArray() ----- Converts list into array
+             * 
             */
 
             List<Person> Persons = new List<Person>();
