@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Animals[0] = "Lion"; // Diziye eleman ekleme
 
             int uzunluk = Animals.Length;
-
+            
 
             // Dizinin uzunluğuna kadar satırı okuyup dizinin o düngüdeki index'ine okunan değeri atadım
             Console.WriteLine("3 tane hayvan ismi giriniz:");
