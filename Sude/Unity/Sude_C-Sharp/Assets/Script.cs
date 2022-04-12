@@ -12,8 +12,8 @@ public class Script : MonoBehaviour
     {
 
         Debug.Log("Hello World");
-
+        
     }
-
+    
 
 }
