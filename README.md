@@ -1,16 +1,19 @@
-# Repository Description
-
-### This repository contains the C# Programs that I've worked on. The programs are divided into different folders based on the topic.
-
-<br>
+<h1> Repository Description </h1>
 
 <h3>
 
+This repository contains the C# Programs that I've worked on. The programs are divided into different folders based on the topic.
+
+</h3>
+
+<br>
+
+<h4>
 
 - [C#](https://github.com/Alperencode/C-Sharp/tree/master/C%23) : The C# basics and the programs that I've worked on.
 
-- [Programs](https://github.com/Alperencode/C-Sharp/tree/master/Programs) : Form and Console based programs that I've made.
+<hr>
 
-- [Teaching-C#](https://github.com/Alperencode/C-Sharp/tree/master/C%23) : Programs that I've made for teaching C# to my classmate.
+- [Teaching-C#](https://github.com/Alperencode/C-Sharp/tree/master/Teaching-C%23) : Programs that I've made for teaching C# to my classmate.
 
-</h3>
+</h4>
